@@ -1,7 +1,8 @@
 # Day 25
 
 * We fixed some bugs from the OOP version of the Helicopter Game
-* We need to separate out the JS file(too large) into multiple separate files with logical units
+* We separated the large javascript file into separate classes
+* We are using import and export
 * Yury covered LinkedList and an exercise. Please refer to this Github for his latest content.
 
 
